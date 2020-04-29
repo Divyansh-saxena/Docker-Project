@@ -1,2 +1,2 @@
-# docker
-this project is based on docker technology . one who know the docker technology can easily manage this project . this project can access the images of docker containers and docker installation using only one single click.
+# Docker
+ This project Contains some basic commands to install Docker ,see images available, pull and launch different containers and wordpress sites and to see all running containers all just by interacting with a TUI.
